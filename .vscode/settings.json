@@ -1,0 +1,13 @@
+{
+    "gradle.javaDebug": {
+
+        "tasks": [
+            "run",
+            "application:run",
+            "runBoot",
+            "test",
+            "intTest",
+            "integration"
+        ]
+    }
+}
